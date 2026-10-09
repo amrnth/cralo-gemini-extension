@@ -1,0 +1,13 @@
+{
+  "name": "cralo",
+  "version": "1.0.0",
+  "description": "Search, extract, transcribe, and research with pay-per-use Cralo tools.",
+  "mcpServers": {
+    "cralo": {
+      "url": "https://mcp.cralo.ai/openai/mcp",
+      "type": "http",
+      "authProviderType": "dynamic_discovery",
+      "description": "Cralo pay-per-use tools for web search, extraction, transcription, public social data, and research."
+    }
+  }
+}
